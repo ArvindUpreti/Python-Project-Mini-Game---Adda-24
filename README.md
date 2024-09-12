@@ -8,3 +8,6 @@ Player Turns: Each player takes turns to bat and bowl, with each ball's outcome 
 Interactive Gameplay: The players predict the opponent's score to avoid getting "out" and score as many runs as possible.
 Database Integration: Player statistics, such as total matches played, matches won, average scores, highest scores, and lowest scores, are stored in a MySQL database for record-keeping and analysis.
 Score Tracking and Results Calculation: The game calculates and displays the final scores for both players, declaring the winner based on performance.
+
+
+## This is just a prototype of the game, so please play carefully to get the most out of the experience.
